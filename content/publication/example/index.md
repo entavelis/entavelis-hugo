@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 publication: https://arxiv.org/abs/2204.02273
 featured: true
-date: 2013-07-01T00:00:00.000Z
+date: 2022-07-10T00:00:00.000Z
 url_slides: ""
 title: Arbitrary-Scale Image Synthesis
 tags: []
