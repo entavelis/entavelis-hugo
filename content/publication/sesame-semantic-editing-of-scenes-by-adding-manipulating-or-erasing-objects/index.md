@@ -2,7 +2,7 @@
 title: "SESAME: Semantic Editing of Scenes by Adding, Manipulating or Erasing Objects"
 subtitle: ""
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Evangelos Ntavelis
   - Andrés Romero
