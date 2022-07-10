@@ -1,6 +1,6 @@
 ---
 role: PhD Student @ CVL ETH Zurich
-avatar_filename: https://twitter.com/VanJellyfish/photo
+avatar_filename: https://pbs.twimg.com/profile_images/1392835590106746888/_gO8ka0Q_400x400.jpg
 bio: ""
 interests: []
 social:
