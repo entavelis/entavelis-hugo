@@ -10,7 +10,7 @@ abstract: "Positional encodings have enabled recent works to train a single
   pipeline and partial generation training to facilitate the synthesis of
   consistent images at arbitrary scales. Lastly, we show competitive results for
   a continuum of scales on various commonly used datasets for image synthesis. "
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -30,29 +30,18 @@ url_source: ""
 url_video: ""
 publication: https://arxiv.org/abs/2204.02273
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: Arbitrary-Scale Image Synthesis
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: RIGHT
   preview_only: false
   filename: https://github.com/vglsd/ScaleParty/raw/main/visuals/scaleparty.gif
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
