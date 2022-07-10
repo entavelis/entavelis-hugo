@@ -26,14 +26,14 @@ organizations:
     url: www.csem.ch
 education:
   courses:
-    - course: PhD in Computer Vision
+    - course: PhD in Computer Vision (Ongoing)
       institution: ETH Zurich, Switzerland
     - course: Advanced Master of Artificial Intelligence
       institution: KULeuven, Belgium
-      year: 2018
+      year: ""
     - course: Diploma of Electrical and Computer Engineering
       institution: National Technical University of Athens, Greece
-      year: 2017
+      year: ""
 superuser: true
 highlight_name: true
 title: Evan Ntavelis
