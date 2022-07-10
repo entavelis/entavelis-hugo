@@ -1,77 +1,44 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+role: PhD Student @ CVL ETH Zurich
+avatar_filename: https://twitter.com/VanJellyfish/photo
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/vanjellyfish
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=iS1R-6gAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/vglsd
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/evangelos-ntavelis-8827818b/
+organizations:
+  - name: ETH Zurich
+    url: www.ethz.ch
+  - name: CSEM
+    url: www.csem.ch
+education:
+  courses:
+    - course: PhD in Computer Vision
+      institution: ETH Zurich, Switzerland
+    - course: Advanced Master of Artificial Intelligence
+      institution: KULeuven, Belgium
+      year: 2018
+    - course: Diploma of Electrical and Computer Engineering
+      institution: National Technical University of Athens, Greece
+      year: 2017
+superuser: true
 highlight_name: true
+title: Evan Ntavelis
+email: ""
 ---
+I am a PhD Student at the [Computer Vision Lab](https://vision.ee.ethz.ch) of [ETH Zurich](https://ethz.ch) and [CSEM](https://csem.ch) under the supervision of Prof. Luc Van Gool. I am also advised by [Dr. Martin Danelljan](https://martin-danelljan.github.io/) and [Prof. Radu Timofte](http://people.ee.ethz.ch/~timofter/). I have an advanced master's degree in Artificial Intelligence from KULeuven, Belgium, and an Electrical and Computer Engineering diploma from the National Technical University of Athens
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+These days I occupy myself with tasks revolving around generating and manipulating images. I am particularly interested in finding out how we can control this process while retaining high perceptual quality.
