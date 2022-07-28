@@ -3,7 +3,9 @@ title: "SkyCam: A Dataset of Sky Images and their Irradiance values"
 publication_types:
   - "3"
 authors:
-  - "SkyCam: A Dataset of Sky Images and their Irradiance values"
+  - Evangelos Ntavelis
+  - Jan Remund
+  - Philipp Schmid
 publication: https://arxiv.org/abs/2105.02922
 publication_short: ""
 abstract: "Recent advances in Computer Vision and Deep Learning have enabled
