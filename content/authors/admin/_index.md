@@ -1,6 +1,6 @@
 ---
 role: PhD Student @ CVL ETH Zurich
-avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQEEvTC_91ft0Q/profile-displayphoto-shrink_400_400/0/1545141297747?e=1664409600&v=beta&t=s-xDTOe-LDmdk0hgal96b04-qXVYnhhKTLOXuWQAvHI
+avatar_filename: twitter.jpg
 bio: ""
 interests: []
 social:
