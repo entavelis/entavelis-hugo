@@ -4,8 +4,9 @@ title: "Same Same but Different: Augmentation of Tiny Industrial Datasets using
 publication_types:
   - "1"
 authors:
-  - https://ieeexplore.ieee.org/author/37086937532
+  - Evangelos Ntavelis; Iason Kastanis; Luc Van Gool; Radu Timofte
 doi: 10.1109/SDS49233.2020.00011
+publication: https://ieeexplore.ieee.org/author/37086937532
 publication_short: In *SDS2022*
 abstract: The evolution of generative adversarial networks has permitted the
   generation of realistic fake images which, in some cases, are
