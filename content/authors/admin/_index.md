@@ -1,6 +1,6 @@
 ---
 role: PhD Student @ CVL ETH Zurich
-avatar_filename: twitter_photo.jpg
+avatar_filename: twitter.jpg
 bio: ""
 interests: []
 social:
