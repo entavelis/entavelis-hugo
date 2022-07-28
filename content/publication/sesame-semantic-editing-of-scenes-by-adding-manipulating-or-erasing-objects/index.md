@@ -10,7 +10,7 @@ authors:
   - Luc Van Gool
   - Radu Timofte
 publication: Evangelos Ntavelis, Andrés Romero, Iason Kastanis, Luc Van Gool, Radu Timofte
-publication_short: In *ECCV2022*
+publication_short: In *ECCV2020*
 abstract: "Recent advances in image generation gave rise to powerful tools for
   semantic image editing. However, existing approaches can either operate on a
   single image or require an abundance of additional information. They are not
